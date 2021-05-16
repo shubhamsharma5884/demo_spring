@@ -1,4 +1,4 @@
-package com.lovesh.demoSpring.controller;
+package com.sharma.demoSpring.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
